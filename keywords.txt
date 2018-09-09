@@ -2,14 +2,14 @@
 
 ##
 ## Datatypes (KEYWORD1)
-Mux   		KEYWORD1
+Mux	KEYWORD1
 
 ##
 ## Instance Methods and Functions (KEYWORD2) ##
-read		KEYWORD2
-dRread		KEYWORD2
-write		KEYWORD2
-setup		KEYWORD2
+read	KEYWORD2
+dRread	KEYWORD2
+write	KEYWORD2
+setup	KEYWORD2
 setEnabled	KEYWORD2
 
 ##
