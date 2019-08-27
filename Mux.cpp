@@ -14,7 +14,7 @@ Mux::Mux() {
 * Construct + setup
 **/
 Mux::Mux(int dPin0, int dPin1, int dPin2, int dPin3, int signalPin, int enablePin) {
-	setup(dPin0,dPin0,dPin0,dPin0,signalPin,enablePin);
+	setup(dPin0,dPin1,dPin2,dPin3,signalPin,enablePin);
 }
 
 
